@@ -1,0 +1,36 @@
+#intro-button {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.progress {
+    width: 80%;
+}
+
+#progress-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.login-form {
+    width: 35%;
+    border: 2px solid;
+    display: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group {
+    margin-top: 10px
+
+}
